@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{BEB6AC3A-E4E5-4AAC-A64B-A1CCE4A129F4}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.QRCodeGenerator.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_nougat_8_1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
