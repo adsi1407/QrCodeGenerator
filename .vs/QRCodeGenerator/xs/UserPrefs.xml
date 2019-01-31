@@ -1,4 +1,5 @@
-﻿<Properties StartupConfiguration="{BEB6AC3A-E4E5-4AAC-A64B-A1CCE4A129F4}|Default">
+﻿<Properties StartupConfiguration="{08E0FB68-D586-4852-B80E-6EF55CF82E3F}|Default">
+  <MonoDevelop.Ide.ItemProperties.QRCodeGenerator.Touch automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.939F939B-4115-4037-BCC8-1182006A9F4C" />
   <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
